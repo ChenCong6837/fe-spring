@@ -1,8 +1,10 @@
 <h1 align="center">前端山泉 💧</h1>
 
-<div align="center">前端优质文章的搬运工 👷</div>
+<div align="center">前端优质文章及教程的搬运工 👷</div>
 
 > 持续更新，欢迎 ⭐
+
+> 如果你也有推荐的前端文章及教程也非常欢迎通过 PR 补充，当然尽量最好不要有知识点重复或内容相似哦。
 
 ## 📂 CSS
 
@@ -26,6 +28,7 @@
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/) -- [ruanyf](https://github.com/ruanyf)
 - [《深入理解ES6》教程学习笔记](https://github.com/hyy1115/ES6-learning) -- [hyy1115](https://github.com/hyy1115)
 - [ES6 完全使用手册](https://juejin.im/post/5bfe05505188252098022400) -- [冴羽](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
+- [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/) -- [azu](https://github.com/azu)
 - [八段代码彻底掌握 Promise](https://juejin.im/post/597724c26fb9a06bb75260e8) -- [艾特老干部](https://juejin.im/user/5944ff6eac502e006b9354a5)
 
 ## 📂 Vue.js
@@ -62,6 +65,7 @@
 - [深入理解Node.js：核心思想与源码分析](https://yjhjstz.gitbooks.io/deep-into-node/content/) -- [yjhjstz](https://github.com/yjhjstz)
 - [如何通过饿了么 Node.js 面试](https://elemefe.github.io/node-interview/#/sections/zh-cn/) -- [ElemeFE](https://github.com/ElemeFE)
 - [深入浅出 Nodejs 读书笔记](http://tw93.com/2015-03-01/shen-ru-qian-chu-nodejs-reading-mind-map.html) -- [tw93](https://github.com/tw93)
+- [Koa 框架教程](http://www.ruanyifeng.com/blog/2017/08/koa.html) -- [ruanyf](https://github.com/ruanyf)
 
 ## 📂 TypeScript
 
@@ -72,6 +76,12 @@
 ## 📂 Babel
 
 - [Babel 手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md) -- [jamiebuilds](https://github.com/jamiebuilds)
+
+## 📂 Unit Test
+
+- [前端单元测试探索](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/UnitTest/%E5%89%8D%E7%AB%AF%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%8E%A2%E7%B4%A2.md) -- [ecmadao](https://github.com/ecmadao)
+- [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html) -- [ruanyf](https://github.com/ruanyf)
+- [mocha 中文文档](https://github.com/zhaosaisai/mocha-in-chinese) -- [zhaosaisai](https://github.com/zhaosaisai)
 
 ## 📂 HTTP
 
